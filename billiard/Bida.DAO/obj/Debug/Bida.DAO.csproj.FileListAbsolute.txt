@@ -1,0 +1,14 @@
+E:\Face\billiard-management-master\bin\Bida.DAO.dll
+E:\Face\billiard-management-master\bin\Bida.DAO.pdb
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.dll
+E:\Face\billiard-management-master\Bida.DAO\obj\Debug\Bida.DAO.pdb
+E:\Face\billiard-management-master\bin\Bida.DAO.dll.config
+D:\QuanLyBida\billiard\bin\Bida.DAO.dll.config
+D:\QuanLyBida\billiard\bin\Bida.DAO.dll
+D:\QuanLyBida\billiard\bin\Bida.DAO.pdb
+D:\QuanLyBida\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.AssemblyReference.cache
+D:\QuanLyBida\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.CoreCompileInputs.cache
+D:\QuanLyBida\billiard\Bida.DAO\obj\Debug\Bida.DAO.csproj.CopyComplete
+D:\QuanLyBida\billiard\Bida.DAO\obj\Debug\Bida.DAO.dll
+D:\QuanLyBida\billiard\Bida.DAO\obj\Debug\Bida.DAO.pdb

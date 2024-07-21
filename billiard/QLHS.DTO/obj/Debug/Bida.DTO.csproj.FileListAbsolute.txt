@@ -1,0 +1,10 @@
+E:\Face\billiard-management-master\bin\Bida.DTO.dll
+E:\Face\billiard-management-master\bin\Bida.DTO.pdb
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.dll
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\QuanLyBida\billiard\bin\Bida.DTO.dll
+D:\QuanLyBida\billiard\bin\Bida.DTO.pdb
+D:\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb

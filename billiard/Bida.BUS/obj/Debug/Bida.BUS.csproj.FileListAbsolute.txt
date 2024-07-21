@@ -1,0 +1,12 @@
+E:\Face\billiard-management-master\bin\Bida.BUS.dll
+E:\Face\billiard-management-master\bin\Bida.BUS.pdb
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.dll
+E:\Face\billiard-management-master\Bida.BUS\obj\Debug\Bida.BUS.pdb
+D:\QuanLyBida\billiard\bin\Bida.BUS.dll
+D:\QuanLyBida\billiard\bin\Bida.BUS.pdb
+D:\QuanLyBida\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.AssemblyReference.cache
+D:\QuanLyBida\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.CoreCompileInputs.cache
+D:\QuanLyBida\billiard\Bida.BUS\obj\Debug\Bida.BUS.csproj.CopyComplete
+D:\QuanLyBida\billiard\Bida.BUS\obj\Debug\Bida.BUS.dll
+D:\QuanLyBida\billiard\Bida.BUS\obj\Debug\Bida.BUS.pdb
